@@ -1,2 +1,2 @@
 # bootstrap
-My fist project using Bootstrap
+Some projects created using Bootstrap
