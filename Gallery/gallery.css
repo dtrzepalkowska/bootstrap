@@ -2,5 +2,8 @@ body {
   padding-top: 70px;
 }
 h1 {
-  color: black; 
+  color: black;
+}
+.jumbotron {
+  background-color: #e8b0cf;
 }
